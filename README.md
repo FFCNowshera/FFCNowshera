@@ -8,7 +8,7 @@ Welcome to the official GitHub repository representing **Fauji Foundation Colleg
 
 ## 👨‍🏫 Guided by Excellence
 
-This repository is maintained under the mentorship of **Sir Amir Hayat**, a dedicated and inspiring educator in the field of technology and computer science. His guidance has been instrumental in developing the skills and motivation behind the work shared here.
+This repository is maintained under the mentorship of [**Sir Amir Hayat**](https://github.com/ITSAAMI), a dedicated and inspiring educator in the field of technology and computer science. His guidance has been instrumental in developing the skills and motivation behind the work shared here.
 
 ## 📁 Repository Purpose
 
@@ -32,4 +32,3 @@ For queries or collaboration opportunities, please connect via GitHub or through
 
 > _"Proud to represent an institution where discipline meets knowledge."_  
 > — Student Representative, FFC Nowshera
-
